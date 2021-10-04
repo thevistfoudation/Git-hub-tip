@@ -121,7 +121,7 @@ Ví dụ:
 <a name="chenlinkchenanh"></a>
 ### 2. Chèn link, chèn ảnh
 
-Để chèn hyperlink bạn chỉ cần paste luôn linh đó vào file .md
+Để chèn hyperlink bạn chỉ cần paste luôn link đó vào file .md
 
 ```
 https://github.com
@@ -440,7 +440,7 @@ Thêm vào nội dung như sau:
 
 ```
 Xin chao!
-Toi la Ducnc.
+Toi la JIN.
 ```
 
 Tạo một thư mục mới, chẳng hạn tên là script để chứa các script của tôi.
