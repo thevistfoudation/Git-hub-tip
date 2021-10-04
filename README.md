@@ -37,8 +37,6 @@
 - [3. Thao tác với tổ chức trong Github](#3)
 - [4. Thao tác với nhánh (branch)](#4)
 - [5. Issues](#5)
-	
-[Tổng kết](#Tongket)
 
 ===========================
 
@@ -645,19 +643,5 @@ Lúc này tại Repo của người quản trị sẽ thấy một Issue mới, 
 
 <img src=http://i.imgur.com/fJroMte.png>
 
-Bằng cách tạo issue, bạn có thể đăng các câu hỏi, thắc mắc của mình cho chủ của repo đó.
 
-<a name="Tongket"></a>
-## Tổng kết 
 
-Bài viết trên tôi tổng hợp lại những kiến thức thu được khi sử dụng git và github cho công việc của tôi (sys admin), hi vọng nó giúp các bạn một phần nào đó.
-
-Chắc chắn bài viết còn có nhiều thiếu sót, mong các bạn thông cảm và gửi feedback cho tôi để hoàn thiện thêm.
-
-Liên lạc của tôi:
-
-- Email: nguyencongduc3112@gmail.com
-
-- Skype: khong_giong_ai
-
-Xin chân thành cảm ơn!
