@@ -1,6 +1,6 @@
 # Git-hub-tip
 ﻿
-## Git và Github cho sysadmin
+## Git và Github
 
 ### Mục lục
 
